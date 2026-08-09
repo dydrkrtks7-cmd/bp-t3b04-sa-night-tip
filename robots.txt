@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mullae-massage-note.gongdeok-club.xyz/sitemap.xml
+Sitemap: https://mullae-massage-note.gongdeok-club.xyz/sitemap-pages.xml
